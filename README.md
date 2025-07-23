@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://raw.githubusercontent.com/ichowenyu/my-owen-portfolio/main/public/logo.png" height="120" alt="Logo" />
 </p>
@@ -17,21 +16,15 @@
   <a href="https://github.com/ichowenyu/my-owen-portfolio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ichowenyu/my-owen-portfolio" alt="License"/></a>
 </p>
 
----
-
 ## 🌐 Live Demo / 在线预览
 
 - 👉 [https://ichowenyu.github.io/my-owen-portfolio/](https://ichowenyu.github.io/my-owen-portfolio/)
-
----
 
 ## 📦 Technologies Used / 使用技术
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
 - [GitHub Pages](https://pages.github.com/)
-
----
 
 ## 🛠️ Getting Started / 快速开始
 
@@ -40,15 +33,12 @@
 ```bash
 npm install
 ```
-````
 
 ### 🧪 Local Development / 本地开发
 
 ```bash
 npm run dev
 ```
-
----
 
 ## 🚀 Deploy to GitHub Pages / 部署至 GitHub Pages
 
@@ -106,8 +96,6 @@ npm run deploy
 - 点击 `Settings > Pages`
 - 设置发布分支为 `gh-pages`，文件夹为 `/ (root)`
 - 几分钟后访问你的网址
-
----
 
 ## 💡 Tips
 
