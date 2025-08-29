@@ -10,6 +10,7 @@ import c from "./c.svg";
 import git from "./git.svg";
 import github from "./github.svg";
 import postgresql from "./postgresql.svg";
+import lua from "./lua.svg";
 import redis from "./redis.svg";
 import mongodb from "./mongodb.svg";
 import linkedin from "./linkedin.svg";
@@ -38,6 +39,7 @@ export {
   github,
   postgresql,
   redis,
+  lua,
   mongodb,
   linkedin,
   car,

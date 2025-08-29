@@ -16,6 +16,7 @@ import {
   contact,
   github,
   linkedin,
+  lua,
   pricewise,
   threads,
   car,
@@ -67,8 +68,13 @@ export const skills = [
   },
   {
     imageUrl: c,
-    name: "C",
+    name: "C++",
     type: "System programming",
+  },
+  {
+    imageUrl: lua,
+    name: "Lua",
+    type: "Script programming",
   },
   {
     imageUrl: git,

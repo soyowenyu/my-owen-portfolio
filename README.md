@@ -77,7 +77,7 @@ npm install --save-dev gh-pages
 
 ```bash
 git init
-git remote add origin https://github.com/ichowenyu/my-owen-portfolio.git
+git remote add origin https://github.com/soyowenyu/my-owen-portfolio.git
 git add .
 git commit -m "initial commit"
 git branch -M main
