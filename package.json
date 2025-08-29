@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ichowenyu.github.io/my-owen-portfolio",
+  "homepage": "https://soyowenyu.github.io/my-owen-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
